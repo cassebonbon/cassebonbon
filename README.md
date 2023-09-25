@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @cassebonbon
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+#Bienvenu sur mon profil 
 
-<!---
-cassebonbon/cassebonbon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-contactez moi sur mon mail **claddupont9@gmail.com** 
+
+**Qui suis je**
+_Je suis Mr dupont clad actuellemnt en formation_ **web web mobil a l afci** , _j ai 20 ans je fesais du manutetion dechargement de camion ect en interim avec synegie dunkerque avant d arrivé a ce jour dans cette formation_
+
+**_Mon but apres cette formation**_
+**_Mon but apres cette formatiob est de crée les sites web des entreprises du meme style que intersport donc devenir chef de ma propre entreprise ou autre ou aussi de faire les disigne des jeu videos disigne des personnages des armes décord des jeu ect**_ 
